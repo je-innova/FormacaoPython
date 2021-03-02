@@ -1,4 +1,4 @@
-# Formacão de Python
+# Formação de Python
 
 #### Objetivos da formação
 
